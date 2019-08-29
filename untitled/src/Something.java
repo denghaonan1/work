@@ -1,7 +1,7 @@
 class Other{
     public int i;
 }
-class Something {
+class  Something {
     public static void main(String[] args){
         Other o=new Other();
         new Something().addOne(o);
